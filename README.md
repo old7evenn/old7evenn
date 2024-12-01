@@ -49,12 +49,6 @@
       </a>
       <br>git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#old7evenn">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#old7evenn" >
         <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="36" height="36" alt="github" />
@@ -143,6 +137,7 @@
     </td>
   </tr> 
 </table>
+
 > Backend
 
 <table width='100%'>
